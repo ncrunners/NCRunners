@@ -19,6 +19,7 @@ The community is driven by volunteers who organize all activities _at no cost_ e
 
 ## Achievements and Events
 
+![](/ncrunners_wari.jpeg)
 We, as a group, have a strong track record of organizing:
 
 | Sr.No | Year | Month | Event | Type | Participants | Description |
