@@ -35,6 +35,7 @@ We, as a group, have a strong track record of organizing:
 | 2024 | March | NC LSoM | Community Marathon | 1800+ | The second NC LSoM organized by NCRunners |
 | 2024 | November | NC Triathlon | Community Triathlon | 50+ | Community organized NC Triathlon |
 | 2024 | June | cyclathon | Pandharpur Cycle Wari | 25+ | Covering a 230 km distance from Pune to Pandharpur |
+| 2024 | July | Sandakfu Fulat | Trek  | 20 | Trek to Sandakfu Fulat  |
 
 ## Weekly Training Sessions
 
