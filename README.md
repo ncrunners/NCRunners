@@ -41,10 +41,19 @@ We, as a group, have a strong track record of organizing:
 
 | Location | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Madhuvanti |  | ST | Run | ST | Run | Yog/Cross | Long Run |
-| Sargam |  | Yog | Yog | Yog | Yog | Yog | |
-| Kalashree |  | Run | ST | Run | ST | Yog/Cross | Long Run |
-| Mangal Bhairav |  | Run | ST | Run | ST | Yog/Cross | Long Run |
+| Madhuvanti | Rest | ST | Run | ST | Run | Yog/Cross | Long Run |
+| Sargam | Rest | Yog | Yog | Yog | Yog | Yog | |
+| Kalashree | Rest | Run | ST | Run | ST | Yog/Cross | Long Run |
+| Mangal Bhairav | Rest | Run | ST | Run | ST | Yog/Cross | Long Run |
+
+The keywords in above table
+* Rest - Rest Day
+* ST - Strength Training of 1 - 1.5 hrs
+* Run - Short Run of 5-7 Km
+* Yog - Yog Asanas (Iyengar & S-Vyasa Yog)
+* Cross - Cross training like swimming, cycling or treking
+* Long Run - Long run of 90 mins+
+
 
 ## Annual Preparation for Key Events
 
