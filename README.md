@@ -24,15 +24,16 @@ The community is driven by volunteers who organize all activities _at no cost_ e
 
 We, as a group, have a strong track record of organizing:
 
-| Sr.No | Year | Month | Event | Type | Participants | Description |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1 | 2019 | March | NC LSoM | Community Marathon | 2000+ | The first NC Marathon combinedly organized by PRSouth, NCRunners & VishwaRunners |
-| 2 | 2022 | December | NC Marathon | Community Marathon | 400+ | Celebrating our 5th anniversary in 2022 |
-| 3 | 2023 | March | NC LSoM | Community Marathon | 1500+ | The first NC LSoM organized by NCRunners |
-| 4 | 2023 | July | NC Trek | Trek  | 50+ | Trek to Rajgadh |
-| 5 | 2024 | March | NC LSoM | Community Marathon | 1800+ | The second NC LSoM organized by NCRunners |
-| 6 | 2024 | November | NC Triathlon | Community Triathlon | 50+ | Community organized NC Triathlon |
-| 7 | 2024 | June | cyclathon | Pandharpur Cycle Wari | 25+ | Covering a 230 km distance from Pune to Pandharpur |
+| Year | Month | Event | Type | Participants | Description |
+| --- | --- | --- | --- | --- | --- |
+| 2019 | March | NC LSoM | Community Marathon | 2000+ | The first NC Marathon combinedly organized by PRSouth, NCRunners & VishwaRunners |
+| 2020 | December | Cycling | Pune to Goa | 17 | Pune to Goa on Cycle |
+| 2022 | December | NC Marathon | Community Marathon | 400+ | Celebrating our 5th anniversary in 2022 |
+| 2023 | March | NC LSoM | Community Marathon | 1500+ | The first NC LSoM organized by NCRunners |
+| 2023 | July | NC Trek | Trek  | 50+ | Trek to Rajgadh |
+| 2024 | March | NC LSoM | Community Marathon | 1800+ | The second NC LSoM organized by NCRunners |
+| 2024 | November | NC Triathlon | Community Triathlon | 50+ | Community organized NC Triathlon |
+| 2024 | June | cyclathon | Pandharpur Cycle Wari | 25+ | Covering a 230 km distance from Pune to Pandharpur |
 
 ## Weekly Training Sessions
 
