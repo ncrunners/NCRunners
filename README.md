@@ -19,7 +19,9 @@ The community is driven by volunteers who organize all activities _at no cost_ e
 
 ## Achievements and Events
 
-![](/ncrunners_wari.jpeg)
+| <a  href="ncrunners_wari.jpeg"><img src="/ncrunners_wari.jpeg" height="250px"></img></a> | <a  href="ncrunners_tmm25.jpeg"><img src="/ncrunners_tmm25.jpeg" height="250px"></img></a> | <a  href="ncrunners_trek.jpeg"><img src="/ncrunners_trek.jpeg" height="250px"></img></a> |
+| --- | --- | --- |
+
 We, as a group, have a strong track record of organizing:
 
 | Sr.No | Year | Month | Event | Type | Participants | Description |
