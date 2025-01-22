@@ -28,6 +28,7 @@ We, as a group, have a strong track record of organizing:
 | --- | --- | --- | --- | --- | --- |
 | 2019 | March | NC LSoM | Community Marathon | 2000+ | The first NC Marathon combinedly organized by PRSouth, NCRunners & VishwaRunners |
 | 2020 | December | Cycling | Pune to Goa | 17 | Pune to Goa on Cycle |
+| 2021 | December | Cycling | Pune to Goa | 11 | Pune to Goa on Cycle |
 | 2022 | December | NC Marathon | Community Marathon | 400+ | Celebrating our 5th anniversary in 2022 |
 | 2023 | March | NC LSoM | Community Marathon | 1500+ | The first NC LSoM organized by NCRunners |
 | 2023 | July | NC Trek | Trek  | 50+ | Trek to Rajgadh |
