@@ -1,5 +1,9 @@
 # NCRunners
 
+| [About Us](#) | [Weekly Sessions](#weekly-training-sessions) | [Contact](#contact) | [Achievements](#achievements-and-events)
+
+---
+
 NCRunners is a dynamic community of over 250+ runners in and around Nanded City, Pune, **established in 2016**.
 
 ![](/ncrunners_lsom.jpeg)
@@ -47,7 +51,7 @@ The keywords in above table
 
 We have a strong track record of organizing:
 
-### Organizing Marathons 
+### Marathons 
 
 <a  href="./ncrunners_dc.jpg"><img src="./ncrunners_dc.jpg" height="200px"></a>
 
