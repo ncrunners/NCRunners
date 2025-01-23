@@ -19,23 +19,49 @@ The community is driven by volunteers who organize all activities _at no cost_ e
 
 ## Achievements and Events
 
-| <a  href="./ncrunners_wari.jpeg"><img src="./ncrunners_wari.jpeg" height="200px"></a> | <a  href="./ncrunners_tmm25.jpeg"><img src="./ncrunners_tmm25.jpeg" height="200px"></a> | <a  href="./ncrunners_trek.jpeg"><img src="./ncrunners_trek.jpeg" height="200px"></a> |
+|  |  |  |
 | --- | --- | --- |
 
 We, as a group, have a strong track record of organizing:
 
+### Organizing Marathons 
 | Year | Month | Event | Type | Participants | Description |
 | --- | --- | --- | --- | --- | --- |
 | 2019 | March | NC LSoM | Community Marathon | 2000+ | The first NC Marathon combinedly organized by PRSouth, NCRunners & VishwaRunners |
-| 2020 | December | Cycling | Pune to Goa | 17 | Pune to Goa on Cycle |
-| 2021 | December | Cycling | Pune to Goa | 11 | Pune to Goa on Cycle |
 | 2022 | December | NC Marathon | Community Marathon | 400+ | Celebrating our 5th anniversary in 2022 |
 | 2023 | March | NC LSoM | Community Marathon | 1500+ | The first NC LSoM organized by NCRunners |
-| 2023 | July | NC Trek | Trek  | 50+ | Trek to Rajgadh |
 | 2024 | March | NC LSoM | Community Marathon | 1800+ | The second NC LSoM organized by NCRunners |
-| 2024 | November | NC Triathlon | Community Triathlon | 50+ | Community organized NC Triathlon |
+| 2024 | Nov | NC Triathlon | Community Triathlon | 50+ | Community organized NC Triathlon |
+
+### Trek
+
+<a  href="./ncrunners_trek.jpeg"><img src="./ncrunners_trek.jpeg" height="200px"></a>
+
+| Year | Month | Event | Type | Participants | Description |
+| --- | --- | --- | --- | --- | --- |
+| 2022 | April | K2S | Sahyadri trek | 18 | KATRAJ TO SINHAGAD TREK (Sahyadri trek) |
+| 2022 | March | Vasota Satara Trek | Sahyadri Trek | 16 | VASOTA TREK (Sahyadri trek) |
+| 2022 | May | Buran Ghati Trek | Himalay trek | 24 | Buran Ghati Trek (Himalay trek) |
+| 2023 | July | NC Rajgadh Trek | Sahyadri trek  | 32+ | Trek to Rajgadh |
+| 2024 | May | Rupin Pass | Himalayan Trek | 10 | Rupin Pass trek |
+| 2024 | Dec | Sandakfu Fulat | Himalay Trek  | 23 | Trek to Sandakfu Fulat  |
+
+### Cycling
+
+<a  href="./ncrunners_wari.jpeg"><img src="./ncrunners_wari.jpeg" height="200px"></a>
+
+| Year | Month | Event | Type | Participants | Description |
+| --- | --- | --- | --- | --- | --- |
+| 2020 | December | Cycling | Pune to Goa | 17 | Pune to Goa on Cycle |
+| 2021 | December | Cycling | Pune to Goa | 11 | Pune to Goa on Cycle |
 | 2024 | June | cyclathon | Pandharpur Cycle Wari | 25+ | Covering a 230 km distance from Pune to Pandharpur |
-| 2024 | July | Sandakfu Fulat | Trek  | 20 | Trek to Sandakfu Fulat  |
+
+### Swimming
+
+| Year | Month | Event | Type | Participants | Description |
+| --- | --- | --- | --- | --- | --- |
+| 2024 | Dec | Chivla Beach | Swimathon | 10 | Chivla Beach Open water Swimathon |
+| 2023 | Nov | Vasai | Swimathon | 5 | Mumbai swim Open water event |
 
 ## Weekly Training Sessions
 
@@ -56,6 +82,8 @@ The keywords in above table
 
 
 ## Annual Preparation for Key Events
+
+<a  href="./ncrunners_tmm25.jpeg"><img src="./ncrunners_tmm25.jpeg" height="200px"></a>
 
 Every year, we collectively train for renowned running events, such as:
 
