@@ -19,12 +19,12 @@ The community is driven by volunteers who organize all activities _at no cost_ e
 
 ## Achievements and Events
 
-|  |  |  |
-| --- | --- | --- |
-
-We, as a group, have a strong track record of organizing:
+We have a strong track record of organizing:
 
 ### Organizing Marathons 
+
+<a  href="./ncrunners_dc.jpg"><img src="./ncrunners_dc.jpg" height="200px"></a>
+
 | Year | Month | Event | Type | Participants | Description |
 | --- | --- | --- | --- | --- | --- |
 | 2019 | March | NC LSoM | Community Marathon | 2000+ | The first NC Marathon combinedly organized by PRSouth, NCRunners & VishwaRunners |
