@@ -1,6 +1,6 @@
 # NCRunners
 
-| [About Us](#) | [Weekly Sessions](#weekly-training-sessions) | [Contact](#contact) | [Achievements](#achievements-and-events) |
+| [Weekly Sessions](#weekly-training-sessions) | [Contact](#contact) | [Achievements](#achievements-and-events) | [Trainings](#annual-preparation-for-key-events) |
 
 ---
 
@@ -109,6 +109,8 @@ Every year, we collectively train for renowned running events, such as:
    - 10+ runners participate yearly in 35k, 50k, and 75k distances.
 4. **My First 5k/10k/15k at NC LSoM**
    - 20+ new individuals become runners every year.
+  
+[Home](./)
 
 ## Contact
 1. [X/Twitter](https://x.com/NCrunners_in)
@@ -116,3 +118,5 @@ Every year, we collectively train for renowned running events, such as:
 3. [Madhuvanti Location](https://maps.app.goo.gl/cjj11w2eAfv5Nt4i8)
 4. (8+1)595344(five 100s), (8+1)5525375(eighteen - 1)
 
+---
+Last Updated on 23rd Jan 2025
