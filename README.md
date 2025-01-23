@@ -6,7 +6,7 @@ NCRunners is a dynamic community of over 250+ runners in and around Nanded City,
 
 Dedicated to health and well-being, we offer free weekly sessions in strength training (ST), running, cycling, swimming, trekking, and yoga. Additionally, we provide comprehensive 4-6 month training schedules for members preparing for major marathons, triathlons, and swimathons.
 
-NCRunners is an open community. Open to all.
+NCRunners is decentralized open community. Open to all.
 
 
 Our members have achieved remarkable milestones, including:
