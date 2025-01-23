@@ -49,7 +49,7 @@ The keywords in above table
 
 ## Achievements and Events
 
-We have a strong track record of organizing:
+| [Marathons](#marathons) | [Trek](#trek) | [Cycling](#cycling) | [Swimming](#swimming) |
 
 ### Marathons 
 
@@ -93,7 +93,7 @@ We have a strong track record of organizing:
 | 2024 | Dec | Chivla Beach | Swimathon | 10 | Chivla Beach Open water Swimathon |
 | 2023 | Nov | Vasai | Swimathon | 5 | Mumbai swim Open water event |
 
-
+[Home](./)
 
 ## Annual Preparation for Key Events
 
