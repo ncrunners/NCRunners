@@ -1,6 +1,6 @@
 # NCRunners
 
-| [About Us](#) | [Weekly Sessions](#weekly-training-sessions) | [Contact](#contact) | [Achievements](#achievements-and-events)
+| [About Us](#) | [Weekly Sessions](#weekly-training-sessions) | [Contact](#contact) | [Achievements](#achievements-and-events) |
 
 ---
 
