@@ -65,6 +65,8 @@ We have a strong track record of organizing:
 
 ## Weekly Training Sessions
 
+<a  href="./ncrunners_st.jpeg"><img src="./ncrunners_st.jpeg" height="200px"></a>
+
 | Location | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Madhuvanti | Rest | ST | Run | ST | Run | Yog/Cross | Long Run |
@@ -94,7 +96,7 @@ Every year, we collectively train for renowned running events, such as:
 3. **Khadakwasla Ultra Marathon**  
    - 10+ runners participate yearly in 35k, 50k, and 75k distances.
 4. **My First 5k/10k/15k at NC LSoM**
-   - 20+ new individuals become runners.
+   - 20+ new individuals become runners every year.
 
 ## Contact
 1. [X/Twitter](https://x.com/NCrunners_in)
