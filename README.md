@@ -47,6 +47,9 @@ The keywords in above table
 Sessions are held at morning 0530 to 0700.
 
 ## Contact
+
+[<- Home](./)
+
 1. [X/Twitter](https://x.com/NCrunners_in)
 2. [Email](ncrunners@proton.me)
 3. [Madhuvanti Location](https://maps.app.goo.gl/cjj11w2eAfv5Nt4i8)
@@ -54,9 +57,13 @@ Sessions are held at morning 0530 to 0700.
 
 ## Achievements and Events
 
+[<- Home](./)
+
 | [Marathons](#marathons) | [Trek](#trek) | [Cycling](#cycling) | [Swimming](#swimming) |
 
 ### Marathons
+
+[<- Achievements](#achievements-and-events)
 
 <a  href="./assets/images/ncrunners_dc.jpg"><img src="./assets/images/ncrunners_dc.jpg" height="200px"></a>
 
@@ -69,6 +76,8 @@ Sessions are held at morning 0530 to 0700.
 | 2024 | Nov | NC Triathlon | Community Triathlon | 50+ | Community organized NC Triathlon |
 
 ### Trek
+
+[<- Achievements](#achievements-and-events)
 
 <a  href="./assets/images/ncrunners_trek.jpeg"><img src="./assets/images/ncrunners_trek.jpeg" height="200px"></a>
 
@@ -83,6 +92,8 @@ Sessions are held at morning 0530 to 0700.
 
 ### Cycling
 
+[<- Achievements](#achievements-and-events)
+
 <a  href="./assets/images/ncrunners_wari.jpeg"><img src="./assets/images/ncrunners_wari.jpeg" height="200px"></a>
 
 | Year | Month | Event | Type | Participants | Description |
@@ -93,14 +104,19 @@ Sessions are held at morning 0530 to 0700.
 
 ### Swimming
 
+[<- Achievements](#achievements-and-events)
+
+<a  href="./assets/images/ncrunners_swim.jpeg"><img src="./assets/images/ncrunners_swim.jpeg" height="200px"></a>
+
 | Year | Month | Event | Type | Participants | Description |
 | --- | --- | --- | --- | --- | --- |
 | 2024 | Dec | Chivla Beach | Swimathon | 10 | Chivla Beach Open water Swimathon |
 | 2023 | Nov | Vasai | Swimathon | 5 | Mumbai swim Open water event |
 
-[Home](./)
 
 ## Annual Preparation for Key Events
+
+[<- Home](./)
 
 <a  href="./assets/images/ncrunners_tmm25.jpeg"><img src="./assets/images/ncrunners_tmm25.jpeg" height="200px"></a>
 
@@ -115,9 +131,10 @@ Every year, we collectively train for renowned running events, such as:
 4. **My First 5k/10k/15k at NC LSoM**
    - 20+ new individuals become runners every year.
 
-[Home](./)
-
 ## Contact
+
+[<- Home](./)
+
 1. [X/Twitter](https://x.com/NCrunners_in)
 2. [Email](ncrunners@proton.me)
 3. [Madhuvanti Location](https://maps.app.goo.gl/cjj11w2eAfv5Nt4i8)
