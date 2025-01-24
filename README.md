@@ -47,6 +47,9 @@ The keywords in above table
 Sessions are held at morning 0530 to 0700.
 
 ## Contact
+
+[<- Home](./)
+
 1. [X/Twitter](https://x.com/NCrunners_in)
 2. [Email](ncrunners@proton.me)
 3. [Madhuvanti Location](https://maps.app.goo.gl/cjj11w2eAfv5Nt4i8)
@@ -54,9 +57,13 @@ Sessions are held at morning 0530 to 0700.
 
 ## Achievements and Events
 
+[<- Home](./)
+
 | [Marathons](#marathons) | [Trek](#trek) | [Cycling](#cycling) | [Swimming](#swimming) |
 
 ### Marathons
+
+[<- Achievements](#achievements-and-events)
 
 <a  href="./assets/images/ncrunners_dc.jpg"><img src="./assets/images/ncrunners_dc.jpg" height="200px"></a>
 
@@ -70,37 +77,46 @@ Sessions are held at morning 0530 to 0700.
 
 ### Trek
 
+[<- Achievements](#achievements-and-events)
+
 <a  href="./assets/images/ncrunners_trek.jpeg"><img src="./assets/images/ncrunners_trek.jpeg" height="200px"></a>
 
 | Year | Month | Event | Type | Participants | Description |
 | --- | --- | --- | --- | --- | --- |
-| 2022 | April | K2S | Sahyadri trek | 18 | KATRAJ TO SINHAGAD TREK (Sahyadri trek) |
-| 2022 | March | Vasota Satara Trek | Sahyadri Trek | 16 | VASOTA TREK (Sahyadri trek) |
-| 2022 | May | Buran Ghati Trek | Himalay trek | 24 | Buran Ghati Trek (Himalay trek) |
-| 2023 | July | NC Rajgadh Trek | Sahyadri trek  | 32+ | Trek to Rajgadh |
-| 2024 | May | Rupin Pass | Himalayan Trek | 10 | Rupin Pass trek |
 | 2024 | Dec | Sandakphu Phalut | Himalay Trek  | 23 | Trek to Sandakfu Fulat  |
+| 2024 | May | Rupin Pass | Himalayan Trek | 10 | Rupin Pass trek |
+| 2023 | July | NC Rajgadh Trek | Sahyadri trek  | 32+ | Trek to Rajgadh |
+| 2022 | May | Buran Ghati Trek | Himalay trek | 24 | Buran Ghati Trek (Himalay trek) |
+| 2022 | March | Vasota Satara Trek | Sahyadri Trek | 16 | VASOTA TREK (Sahyadri trek) |
+| 2022 | April | K2S | Sahyadri trek | 18 | KATRAJ TO SINHAGAD TREK (Sahyadri trek) |
 
 ### Cycling
+
+[<- Achievements](#achievements-and-events)
 
 <a  href="./assets/images/ncrunners_wari.jpeg"><img src="./assets/images/ncrunners_wari.jpeg" height="200px"></a>
 
 | Year | Month | Event | Type | Participants | Description |
 | --- | --- | --- | --- | --- | --- |
+| 2024 | June | cyclathon | Pandharpur Cycle Wari | 25+ | Covering a 230 km distance from Pune to Pandharpur |
 | 2020 | December | Cycling | Pune to Goa | 17 | Pune to Goa on Cycle |
 | 2021 | December | Cycling | Pune to Goa | 11 | Pune to Goa on Cycle |
-| 2024 | June | cyclathon | Pandharpur Cycle Wari | 25+ | Covering a 230 km distance from Pune to Pandharpur |
 
 ### Swimming
 
+[<- Achievements](#achievements-and-events)
+
+<a  href="./assets/images/ncrunners_swim.jpeg"><img src="./assets/images/ncrunners_swim.jpeg" height="200px"></a>
+
 | Year | Month | Event | Type | Participants | Description |
 | --- | --- | --- | --- | --- | --- |
-| 2024 | Dec | Chivla Beach | Swimathon | 10 | Chivla Beach Open water Swimathon |
 | 2023 | Nov | Vasai | Swimathon | 5 | Mumbai swim Open water event |
+| 2024 | Dec | Chivla Beach | Swimathon | 10 | Chivla Beach Open water Swimathon |
 
-[Home](./)
 
 ## Annual Preparation for Key Events
+
+[<- Home](./)
 
 <a  href="./assets/images/ncrunners_tmm25.jpeg"><img src="./assets/images/ncrunners_tmm25.jpeg" height="200px"></a>
 
@@ -115,9 +131,10 @@ Every year, we collectively train for renowned running events, such as:
 4. **My First 5k/10k/15k at NC LSoM**
    - 20+ new individuals become runners every year.
 
-[Home](./)
-
 ## Contact
+
+[<- Home](./)
+
 1. [X/Twitter](https://x.com/NCrunners_in)
 2. [Email](ncrunners@proton.me)
 3. [Madhuvanti Location](https://maps.app.goo.gl/cjj11w2eAfv5Nt4i8)
