@@ -83,12 +83,12 @@ Sessions are held at morning 0530 to 0700.
 
 | Year | Month | Event | Type | Participants | Description |
 | --- | --- | --- | --- | --- | --- |
-| 2022 | April | K2S | Sahyadri trek | 18 | KATRAJ TO SINHAGAD TREK (Sahyadri trek) |
-| 2022 | March | Vasota Satara Trek | Sahyadri Trek | 16 | VASOTA TREK (Sahyadri trek) |
-| 2022 | May | Buran Ghati Trek | Himalay trek | 24 | Buran Ghati Trek (Himalay trek) |
-| 2023 | July | NC Rajgadh Trek | Sahyadri trek  | 32+ | Trek to Rajgadh |
-| 2024 | May | Rupin Pass | Himalayan Trek | 10 | Rupin Pass trek |
 | 2024 | Dec | Sandakphu Phalut | Himalay Trek  | 23 | Trek to Sandakfu Fulat  |
+| 2024 | May | Rupin Pass | Himalayan Trek | 10 | Rupin Pass trek |
+| 2023 | July | NC Rajgadh Trek | Sahyadri trek  | 32+ | Trek to Rajgadh |
+| 2022 | May | Buran Ghati Trek | Himalay trek | 24 | Buran Ghati Trek (Himalay trek) |
+| 2022 | March | Vasota Satara Trek | Sahyadri Trek | 16 | VASOTA TREK (Sahyadri trek) |
+| 2022 | April | K2S | Sahyadri trek | 18 | KATRAJ TO SINHAGAD TREK (Sahyadri trek) |
 
 ### Cycling
 
@@ -98,9 +98,9 @@ Sessions are held at morning 0530 to 0700.
 
 | Year | Month | Event | Type | Participants | Description |
 | --- | --- | --- | --- | --- | --- |
+| 2024 | June | cyclathon | Pandharpur Cycle Wari | 25+ | Covering a 230 km distance from Pune to Pandharpur |
 | 2020 | December | Cycling | Pune to Goa | 17 | Pune to Goa on Cycle |
 | 2021 | December | Cycling | Pune to Goa | 11 | Pune to Goa on Cycle |
-| 2024 | June | cyclathon | Pandharpur Cycle Wari | 25+ | Covering a 230 km distance from Pune to Pandharpur |
 
 ### Swimming
 
@@ -110,8 +110,8 @@ Sessions are held at morning 0530 to 0700.
 
 | Year | Month | Event | Type | Participants | Description |
 | --- | --- | --- | --- | --- | --- |
-| 2024 | Dec | Chivla Beach | Swimathon | 10 | Chivla Beach Open water Swimathon |
 | 2023 | Nov | Vasai | Swimathon | 5 | Mumbai swim Open water event |
+| 2024 | Dec | Chivla Beach | Swimathon | 10 | Chivla Beach Open water Swimathon |
 
 
 ## Annual Preparation for Key Events
