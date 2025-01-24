@@ -79,11 +79,11 @@ Sessions are held at morning 0530 to 0700.
 
 | Year | Month | Event | Type | Participants | Description |
 | --- | --- | --- | --- | --- | --- |
-| 2019 | March | NC LSoM | Community Marathon | 2000+ | The first NC Marathon combinedly organized by PRSouth, NCRunners & VishwaRunners |
-| 2022 | December | NC Marathon | Community Marathon | 400+ | Celebrating our 5th anniversary in 2022 |
-| 2023 | March | NC LSoM | Community Marathon | 1500+ | The first NC LSoM organized by NCRunners |
-| 2024 | March | NC LSoM | Community Marathon | 1800+ | The second NC LSoM organized by NCRunners |
 | 2024 | Nov | NC Triathlon | Community Triathlon | 50+ | Community organized NC Triathlon |
+| 2024 | March | NC LSoM | Community Marathon | 1800+ | [The second NC LSoM organized by NCRunners](https://yogeshpowar.github.io/blog/2024/04/01/NC_LSoM.html) |
+| 2023 | March | NC LSoM | Community Marathon | 1500+ | [The first NC LSoM organized by NCRunners](https://yogeshpowar.github.io/blog/2023/04/03/OrganizingLsom.html) |
+| 2022 | December | NC Marathon | Community Marathon | 400+ | Celebrating our 5th anniversary in 2022 |
+| 2019 | March | NC LSoM | Community Marathon | 2000+ | The first NC Marathon combinedly organized by PRSouth, NCRunners & VishwaRunners |
 
 ### Trek
 
