@@ -4,14 +4,17 @@
 
 ---
 
-NCRunners is a dynamic community of over 250+ runners in and around Nanded City, Pune, **established in 2016**.
+NCRunners is a dynamic community of over 250+ runners in and around Nanded City,
+Pune, **established in 2016**.
 
-![](/ncrunners_lsom.jpeg)
+![](/assets/images/ncrunners_lsom.jpeg)
 
-Dedicated to health and well-being, we offer free weekly sessions in strength training (ST), running, cycling, swimming, trekking, and yoga. Additionally, we provide comprehensive 4-6 month training schedules for members preparing for major marathons, triathlons, and swimathons.
+Dedicated to health and well-being, we offer free weekly sessions in strength
+training (ST), running, cycling, swimming, trekking, and yoga. Additionally, we
+provide comprehensive 4-6 month training schedules for members preparing for
+major marathons, triathlons, and swimathons.
 
-NCRunners is decentralized open community. Open to all.
-
+*NCRunners is decentralized open community. Open to all.*
 
 Our members have achieved remarkable milestones, including:
 
@@ -19,11 +22,12 @@ Our members have achieved remarkable milestones, including:
 - Many successfully finishing full and half Ironman events/distances.
 - Others taking on challenging swimathons & cycling events.
 
-The community is driven by volunteers who organize all activities _at no cost_ emphasizing our commitment to promoting sports and well-being.
+The community is driven by volunteers who organize all activities _at no cost_
+emphasizing our commitment to promoting sports and well-being.
 
 ## Weekly Training Sessions
 
-<a  href="./ncrunners_st.jpeg"><img src="./ncrunners_st.jpeg" height="200px"></a>
+<a  href="./assets/images/ncrunners_st.jpeg"><img src="./assets/images/ncrunners_st.jpeg" height="200px"></a>
 
 | Location | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -40,6 +44,7 @@ The keywords in above table
 * Cross - Cross training like swimming, cycling or treking
 * Long Run - Long run of 90 mins+
 
+Sessions are held at morning 0530 to 0700.
 
 ## Contact
 1. [X/Twitter](https://x.com/NCrunners_in)
@@ -51,9 +56,9 @@ The keywords in above table
 
 | [Marathons](#marathons) | [Trek](#trek) | [Cycling](#cycling) | [Swimming](#swimming) |
 
-### Marathons 
+### Marathons
 
-<a  href="./ncrunners_dc.jpg"><img src="./ncrunners_dc.jpg" height="200px"></a>
+<a  href="./assets/images/ncrunners_dc.jpg"><img src="./assets/images/ncrunners_dc.jpg" height="200px"></a>
 
 | Year | Month | Event | Type | Participants | Description |
 | --- | --- | --- | --- | --- | --- |
@@ -65,7 +70,7 @@ The keywords in above table
 
 ### Trek
 
-<a  href="./ncrunners_trek.jpeg"><img src="./ncrunners_trek.jpeg" height="200px"></a>
+<a  href="./assets/images/ncrunners_trek.jpeg"><img src="./assets/images/ncrunners_trek.jpeg" height="200px"></a>
 
 | Year | Month | Event | Type | Participants | Description |
 | --- | --- | --- | --- | --- | --- |
@@ -78,7 +83,7 @@ The keywords in above table
 
 ### Cycling
 
-<a  href="./ncrunners_wari.jpeg"><img src="./ncrunners_wari.jpeg" height="200px"></a>
+<a  href="./assets/images/ncrunners_wari.jpeg"><img src="./assets/images/ncrunners_wari.jpeg" height="200px"></a>
 
 | Year | Month | Event | Type | Participants | Description |
 | --- | --- | --- | --- | --- | --- |
@@ -97,19 +102,19 @@ The keywords in above table
 
 ## Annual Preparation for Key Events
 
-<a  href="./ncrunners_tmm25.jpeg"><img src="./ncrunners_tmm25.jpeg" height="200px"></a>
+<a  href="./assets/images/ncrunners_tmm25.jpeg"><img src="./assets/images/ncrunners_tmm25.jpeg" height="200px"></a>
 
 Every year, we collectively train for renowned running events, such as:
 
-1. **Tata Mumbai Marathon**  
+1. **Tata Mumbai Marathon**
    - 30-50 runners participate yearly in Full and Half Marathons.
-2. **Satara Hill Marathon**  
+2. **Satara Hill Marathon**
    - 30+ runners participate yearly in Half Marathons.
-3. **Khadakwasla Ultra Marathon**  
+3. **Khadakwasla Ultra Marathon**
    - 10+ runners participate yearly in 35k, 50k, and 75k distances.
 4. **My First 5k/10k/15k at NC LSoM**
    - 20+ new individuals become runners every year.
-  
+
 [Home](./)
 
 ## Contact
@@ -119,4 +124,12 @@ Every year, we collectively train for renowned running events, such as:
 4. (8+1)595344(five 100s), (8+1)5525375(eighteen - 1)
 
 ---
-Last Updated on 23rd Jan 2025
+[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+
+Except where otherwise noted, contents are licensed under a Creative Commons
+Attribution 4.0 International license
+
+
+Last Updated on 24th Jan 2025
+---
+Developed by [doublefree.in](doublefree.in)
