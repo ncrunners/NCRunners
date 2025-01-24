@@ -1,11 +1,8 @@
-# NCRunners
-
 ```
 Every stride we take strengthens not just our legs but our resolve;  
    every mile we conquer builds the endurance of a nation.
-
-A country that runs together, rises together.
-                                             --- Jai Hind
+      A country that runs together, rises together.
+                                                      --- Jai Hind
 ```
 
 | [Weekly Sessions](#weekly-training-sessions) | [Contact](#contact) | [Achievements](#achievements-and-events) | [Trainings](#annual-preparation-for-key-events) |
