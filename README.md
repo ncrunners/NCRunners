@@ -5,7 +5,7 @@ Every stride we take strengthens not just our legs but our resolve;
                                                       --- Jai Hind
 ```
 
-| [Weekly Sessions](#weekly-training-sessions) | [Contact](#contact) | [Achievements](#achievements-and-events) | [Trainings](#annual-preparation-for-key-events) |
+| Home | [Weekly Sessions](#weekly-training-sessions) | [Contact](#contact) | [Achievements](#achievements-and-events) | [Trainings](#annual-preparation-for-key-events) |
 
 ---
 
@@ -32,7 +32,7 @@ emphasizing our commitment to promoting sports and well-being.
 
 ## Weekly Training Sessions
 
-[<- Home](./)
+| [Home](./)| | Weekly Sessions | [Contact](#contact) | [Achievements](#achievements-and-events) | [Trainings](#annual-preparation-for-key-events) |
 
 <a  href="./assets/images/ncrunners_st.jpeg"><img src="./assets/images/ncrunners_st.jpeg" height="200px"></a>
 
@@ -55,7 +55,7 @@ Sessions are held at morning 0530 to 0700.
 
 ## Contact
 
-[<- Home](./)
+| [Home](./) | [Weekly Sessions](#weekly-training-sessions) | Contact | [Achievements](#achievements-and-events) | [Trainings](#annual-preparation-for-key-events) |
 
 1. [X/Twitter](https://x.com/NCrunners_in)
 2. [Email](ncrunners@proton.me)
@@ -64,13 +64,11 @@ Sessions are held at morning 0530 to 0700.
 
 ## Achievements and Events
 
-[<- Home](./)
-
-| [Marathons](#marathons) | [Trek](#trek) | [Cycling](#cycling) | [Swimming](#swimming) |
+| [Home](./) | [Weekly Sessions](#weekly-training-sessions) | [Contact](#contact) | Achievements | [Trainings](#annual-preparation-for-key-events) |
 
 ### Marathons
 
-[<- Achievements](#achievements-and-events)
+| [Home](./) | Marathons | [Trek](#trek) | [Cycling](#cycling) | [Swimming](#swimming) |
 
 <a  href="./assets/images/ncrunners_dc.jpg"><img src="./assets/images/ncrunners_dc.jpg" height="200px"></a>
 
@@ -84,7 +82,7 @@ Sessions are held at morning 0530 to 0700.
 
 ### Trek
 
-[<- Achievements](#achievements-and-events)
+| [Home](./) | [Marathons](#marathons) | Trek | [Cycling](#cycling) | [Swimming](#swimming) |
 
 <a  href="./assets/images/ncrunners_trek.jpeg"><img src="./assets/images/ncrunners_trek.jpeg" height="200px"></a>
 
@@ -99,7 +97,7 @@ Sessions are held at morning 0530 to 0700.
 
 ### Cycling
 
-[<- Achievements](#achievements-and-events)
+| [Home](./) | [Marathons](#marathons) | [Trek](#trek) | Cycling | [Swimming](#swimming) |
 
 <a  href="./assets/images/ncrunners_wari.jpeg"><img src="./assets/images/ncrunners_wari.jpeg" height="200px"></a>
 
@@ -111,7 +109,7 @@ Sessions are held at morning 0530 to 0700.
 
 ### Swimming
 
-[<- Achievements](#achievements-and-events)
+| [Home](./) | [Marathons](#marathons) | [Trek](#trek) | [Cycling](#cycling) | Swimming |
 
 <a  href="./assets/images/ncrunners_swim.jpeg"><img src="./assets/images/ncrunners_swim.jpeg" height="200px"></a>
 
@@ -123,7 +121,8 @@ Sessions are held at morning 0530 to 0700.
 
 ## Annual Preparation for Key Events
 
-[<- Home](./)
+| [Home](./) | [Weekly Sessions](#weekly-training-sessions) | [Contact](#contact) | [Achievements](#achievements-and-events) | Trainings |
+
 
 <a  href="./assets/images/ncrunners_tmm25.jpeg"><img src="./assets/images/ncrunners_tmm25.jpeg" height="200px"></a>
 
@@ -137,15 +136,6 @@ Every year, we collectively train for renowned running events, such as:
    - 10+ runners participate yearly in 35k, 50k, and 75k distances.
 4. **My First 5k/10k/15k at NC LSoM**
    - 20+ new individuals become runners every year.
-
-## Contact
-
-[<- Home](./)
-
-1. [X/Twitter](https://x.com/NCrunners_in)
-2. [Email](ncrunners@proton.me)
-3. [Madhuvanti Location](https://maps.app.goo.gl/cjj11w2eAfv5Nt4i8)
-4. (8+1)595344(five 100s), (8+1)5525375(eighteen - 1)
 
 ---
 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
