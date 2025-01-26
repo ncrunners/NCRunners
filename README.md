@@ -32,7 +32,7 @@ emphasizing our commitment to promoting sports and well-being.
 
 ## Weekly Training Sessions
 
-| [Home](./)| | Weekly Sessions | [Contact](#contact) | [Achievements](#achievements-and-events) | [Trainings](#annual-preparation-for-key-events) |
+| [Home](./) | Weekly Sessions | [Contact](#contact) | [Achievements](#achievements-and-events) | [Trainings](#annual-preparation-for-key-events) |
 
 <a  href="./assets/images/ncrunners_st.jpeg"><img src="./assets/images/ncrunners_st.jpeg" height="200px"></a>
 
