@@ -1,11 +1,11 @@
+| Home | [Weekly Sessions](#weekly-training-sessions) | [Contact](#contact) | [Achievements](#achievements-and-events) | [Trainings](#annual-preparation-for-key-events) |
+
 ```
 Every stride we take strengthens not just our body but our will;  
    every mile we conquer builds the endurance of a nation.
       A country that runs together, rises together.
                                                       --- Jai Hind
 ```
-
-| Home | [Weekly Sessions](#weekly-training-sessions) | [Contact](#contact) | [Achievements](#achievements-and-events) | [Trainings](#annual-preparation-for-key-events) |
 
 ---
 
