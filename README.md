@@ -74,6 +74,7 @@ Sessions are held at morning 0530 to 0700.
 
 | Year | Month | Event | Type | Participants | Description |
 | --- | --- | --- | --- | --- | --- |
+| 2025 | March | NC LSoM | Community Marathon |  | Upcoming - March 23rd |
 | 2024 | Nov | NC Triathlon | Community Triathlon | 50+ | Community organized NC Triathlon |
 | 2024 | March | NC LSoM | Community Marathon | 1800+ | [The second NC LSoM organized by NCRunners](https://yogeshpowar.github.io/blog/2024/04/01/NC_LSoM.html) |
 | 2023 | March | NC LSoM | Community Marathon | 1500+ | [The first NC LSoM organized by NCRunners](https://yogeshpowar.github.io/blog/2023/04/03/OrganizingLsom.html) |
@@ -92,8 +93,8 @@ Sessions are held at morning 0530 to 0700.
 | 2024 | May | Rupin Pass | Himalayan Trek | 10 | Rupin Pass trek |
 | 2023 | July | NC Rajgadh Trek | Sahyadri trek  | 32+ | Trek to Rajgadh |
 | 2022 | May | Buran Ghati Trek | Himalay trek | 24 | Buran Ghati Trek (Himalay trek) |
-| 2022 | March | Vasota Satara Trek | Sahyadri Trek | 16 | VASOTA TREK (Sahyadri trek) |
 | 2022 | April | K2S | Sahyadri trek | 18 | KATRAJ TO SINHAGAD TREK (Sahyadri trek) |
+| 2022 | March | Vasota Satara Trek | Sahyadri Trek | 16 | VASOTA TREK (Sahyadri trek) |
 
 ### Cycling
 
@@ -104,8 +105,8 @@ Sessions are held at morning 0530 to 0700.
 | Year | Month | Event | Type | Participants | Description |
 | --- | --- | --- | --- | --- | --- |
 | 2024 | June | cyclathon | Pandharpur Cycle Wari | 25+ | Covering a 230 km distance from Pune to Pandharpur |
-| 2020 | December | Cycling | Pune to Goa | 17 | Pune to Goa on Cycle |
 | 2021 | December | Cycling | Pune to Goa | 11 | Pune to Goa on Cycle |
+| 2020 | December | Cycling | Pune to Goa | 17 | Pune to Goa on Cycle |
 
 ### Swimming
 
@@ -115,8 +116,8 @@ Sessions are held at morning 0530 to 0700.
 
 | Year | Month | Event | Type | Participants | Description |
 | --- | --- | --- | --- | --- | --- |
-| 2023 | Nov | Vasai | Swimathon | 5 | Mumbai swim Open water event |
 | 2024 | Dec | Chivla Beach | Swimathon | 10 | Chivla Beach Open water Swimathon |
+| 2023 | Nov | Vasai | Swimathon | 5 | Mumbai swim Open water event |
 
 
 ## Annual Preparation for Key Events
