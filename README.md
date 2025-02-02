@@ -58,7 +58,7 @@ Sessions are held at morning 0530 to 0700.
 | [Home](./) | [Weekly Sessions](#weekly-training-sessions) | Contact | [Achievements](#achievements-and-events) | [Trainings](#annual-preparation-for-key-events) |
 
 1. [X/Twitter](https://x.com/NCrunners_in)
-2. [Email](ncrunners@proton.me)
+2. [Email](mailto:ncrunners@proton.me)
 3. [Madhuvanti Location](https://maps.app.goo.gl/cjj11w2eAfv5Nt4i8)
 4. (8+1)5525375(eighteen - 1)
 
