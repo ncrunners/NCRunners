@@ -10,11 +10,11 @@ LSoMs (Last Sunday of the Month) are monthly runs organised by various running g
 
 ## Why run LSoMs?
 
-1. Marathon Organized by Runners for Runners.
-2. Community non-commercial runs.
-3. Tonnes of fun for fraction of commercial marathon fees.
-4. Awesome route support & cheering from the local running community.
-5. Delicious breakfast after the run.
+1. Marathons organized by runners, for runners.
+2. Community-driven, non-commercial runs.
+3. Tons of fun for a fraction of the cost of commercial marathons.
+4. Awesome route support and cheering from the local running community.
+5. A delicious breakfast after the run.
 
 ## Details
 
