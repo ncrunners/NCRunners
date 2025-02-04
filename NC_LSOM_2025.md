@@ -24,8 +24,8 @@ LSoMs (Last Sunday of the Month) are monthly runs organised by various running g
 
 ## Registrations
 
-* Offline : [Form link](https://forms.gle/Ke6ZNfP6c3do121u9)
-* Online  : !!!Upcoming!!!
+* Google Form: Register Now (https://forms.gle/Ke6ZNfP6c3do121u9)
+* Portal Registration: Coming Soon
 
 Know more about NCRunners - https://www.ncrunners.in
 
