@@ -1,5 +1,5 @@
 # NC LSoM 2025
-### Nanded City Last Sunday of Month Run is back.
+### Nanded City (NC) Last Sunday of Month (LSoM) Marathon is back.
 
 <a  href="./assets/images/ncrunners_dc.jpg"><img src="./assets/images/ncrunners_dc.jpg" height="400px"></a>
 
