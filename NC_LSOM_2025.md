@@ -1,7 +1,7 @@
 # NC LSoM 2025
 
 ## Registrations
-* Google Form: [UPI Pay & Register](https://forms.gle/Ke6ZNfP6c3do121u9).
+* [Online Registration](https://konfhub.com/94e1263f-44d3-4a16-aad0-6a42e09ced96)
   
 ### Nanded City (NC) Last Sunday of Month (LSoM) Marathon is back.
 
@@ -28,7 +28,8 @@ LSoMs (Last Sunday of the Month) are monthly runs organised by various running g
 4. Distances: 3km, 5km, 10km and 15km
 
 ## Registrations
-* Google Form: [UPI Pay & Register](https://forms.gle/Ke6ZNfP6c3do121u9).
+* [Online Registration](https://konfhub.com/94e1263f-44d3-4a16-aad0-6a42e09ced96)
+
 
 Know more about NCRunners - https://www.ncrunners.in
 
