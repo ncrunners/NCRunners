@@ -26,7 +26,7 @@ LSoMs (Last Sunday of the Month) are monthly runs organised by various running g
 1. Date: Sunday, 23rd March 2025
 2. Location: Kridangan, Nanded City, Pune. [Google Map](https://maps.app.goo.gl/jvt5iZfSX7TX1U3P6)
 3. Fees: 200 Rs
-4. Distances: 3km, 5km, 10km and 15km
+4. Distances: [15km](https://www.plotaroute.com/route/2889597), [10km](https://www.plotaroute.com/route/2889720), [5km](https://www.plotaroute.com/route/2889731) and [3km](https://www.plotaroute.com/route/2889737)
 
 ## Registrations
 * [Online Registration](https://konfhub.com/94e1263f-44d3-4a16-aad0-6a42e09ced96)
