@@ -1,39 +1,24 @@
 # NC LSoM 2025
 
-## Registrations
-* [Online Registration](https://konfhub.com/94e1263f-44d3-4a16-aad0-6a42e09ced96)
+![](/assets/images/lsom2025/runners.jpg)
 
-  
-### Nanded City (NC) Last Sunday of Month (LSoM) Marathon is back.
+4th edition of Nanded City (NC) LSoM, our community marathon event, held on Sunday,
+23rd March 2025. This year’s event coincided with Shaheed Diwas, and we dedicated
+the run to honoring the brave martyrs who laid down their lives for our Maatrubhumi.
 
-<a  href="./assets/images/ncrunners_dc.jpg"><img src="./assets/images/ncrunners_dc.jpg" height="400px"></a>
+Here are some key highlights from the event:
 
-NCRunners is organizing **4th edition of NC-LSoM** at Nanded City, Sinhagad Road,
-Pune on 23rd March 2025.
+1. Participation of 2000+ individuals, from toddlers to senior citizens.
+2. Sponsorship for 50 ZP school children, ensuring they could experience the joy of running.
+3. A strong emphasis on sustainability, with a plastic-free event using steel utensils.
+4. Specialized support from physiotherapists and doctors to assist runners.
 
-LSoMs (Last Sunday of the Month) are monthly runs organised by various running groups in Pune, with the sole purpose of promoting running and fitness within the community. Since March 2011, LSoMs have been an integral part of the Pune running scene, known for their grassroots approach and community spirit.
+We are incredibly proud to have organized yet another LSoM that participants truly enjoyed.
 
-## Why run LSoMs?
-
-1. Marathons organized by runners, for runners.
-2. Community-driven, non-commercial runs.
-3. Tons of fun for a fraction of the cost of commercial marathons.
-4. Awesome route support and cheering from the local running community.
-5. A delicious breakfast after the run.
-
-## Details
-
-1. Date: Sunday, 23rd March 2025
-2. Location: Kridangan, Nanded City, Pune. [Google Map](https://maps.app.goo.gl/jvt5iZfSX7TX1U3P6)
-3. Fees: 200 Rs
-4. Distances: [15km](https://www.plotaroute.com/route/2889597), [10km](https://www.plotaroute.com/route/2889720), [5km](https://www.plotaroute.com/route/2889731) and [3km](https://www.plotaroute.com/route/2889737)
-
-## Registrations
-* [Online Registration](https://konfhub.com/94e1263f-44d3-4a16-aad0-6a42e09ced96)
+We sincerely thank you for allowing us to create an experience that will be
+cherished for a long time. This event was entirely community-driven, with 160+
+volunteers from NCRunners and support from 15 local sponsors, ensuring we
+delivered a high-quality event at just ₹200 per runner.
 
 
-Know more about NCRunners - https://www.ncrunners.in
-
-## Contact
-* Race Director: Dr Prajakta More
-* Race Assistant Director: Shri Sharad Dhawan
+![](/assets/images/lsom2025/team.jpg)
