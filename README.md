@@ -7,10 +7,6 @@ Every stride we take strengthens not just our body but our will;
                                                       --- Jai Hind
 ```
 
-### Register for Nanded City, LSoM, 23rd March, 2025 [Click Here](https://www.ncrunners.in/NC_LSOM_2025)
-
----
-
 NCRunners is a dynamic community of over 250+ runners in and around Nanded City,
 Pune, **established in 2016**.
 
@@ -76,10 +72,10 @@ Sessions are held at morning 0530 to 0700.
 
 | Year | Month | Event | Type | Participants | Description |
 | --- | --- | --- | --- | --- | --- |
-| 2025 | March | NC LSoM | Community Marathon |  | [Upcoming - March 23rd](https://www.ncrunners.in/NC_LSOM_2025) |
+| 2025 | March | NC LSoM | Community Marathon | 2000+ | [NC-LSoM: Shahid Diwas Theme](https://www.ncrunners.in/NC_LSOM_2025) |
 | 2024 | Nov | NC Triathlon | Community Triathlon | 50+ | Community organized NC Triathlon |
-| 2024 | March | NC LSoM | Community Marathon | 1800+ | [The second NC LSoM organized by NCRunners](https://yogeshpowar.github.io/blog/2024/04/01/NC_LSoM.html) |
-| 2023 | March | NC LSoM | Community Marathon | 1500+ | [The first NC LSoM organized by NCRunners](https://yogeshpowar.github.io/blog/2023/04/03/OrganizingLsom.html) |
+| 2024 | March | NC LSoM | Community Marathon | 1800+ | [NC-LSoM: Runner's Safety Theme](https://yogeshpowar.github.io/blog/2024/04/01/NC_LSoM.html) |
+| 2023 | March | NC LSoM | Community Marathon | 1500+ | [NC-LSoM: Reduce Reuse Recycle Theme](https://yogeshpowar.github.io/blog/2023/04/03/OrganizingLsom.html) |
 | 2022 | December | NC Marathon | Community Marathon | 400+ | Celebrating our 5th anniversary in 2022 |
 | 2019 | March | NC LSoM | Community Marathon | 2000+ | The first NC Marathon combinedly organized by PRSouth, NCRunners & VishwaRunners |
 
