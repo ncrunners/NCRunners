@@ -1,6 +1,7 @@
 # NC LSoM 2025
 
-![](/assets/images/lsom2025/runners.jpg)
+<a  href="/assets/images/lsom2025/runners.jpg"><img src="/assets/images/lsom2025/runners.jpg" height="400px"></a>
+
 
 4th edition of Nanded City (NC) LSoM, our community marathon event, held on Sunday,
 23rd March 2025. This year’s event coincided with Shaheed Diwas, and we dedicated
