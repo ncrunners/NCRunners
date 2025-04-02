@@ -28,6 +28,11 @@ Our members have achieved remarkable milestones, including:
 The community is driven by volunteers who organize all activities _at no cost_
 emphasizing our commitment to promoting sports and well-being.
 
+## NCRunners Challanges
+1. [No Sugar Challenge for 21 Days](/noSugar)
+2. [100 Days of Activities](/ncrhdc)
+
+
 ## Weekly Training Sessions
 
 | [Home](./) | Weekly Sessions | [Contact](#contact) | [Achievements](#achievements-and-events) | [Trainings](#annual-preparation-for-key-events) |
