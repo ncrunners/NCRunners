@@ -26,5 +26,5 @@ Arranged by completed dates.
 
 |Sr. No| Name | Completed On | In #Days |
 | --- | --- | --- | --- |
-| 1 | Dilip Thorat | 11/04/2025 | |
+| 1 | Dilip Thorat | 11/04/2025 | 101 |
 | 2 | Mahesh Todkar |  06/06/2025 | 100 |
