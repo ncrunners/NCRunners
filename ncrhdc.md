@@ -30,7 +30,7 @@ Arranged by completed dates.
 | 2 | Mahesh Todkar |  06/06/2025 | 100 |
 | 3 | Sharad Dhawan | 01/07/2025 | 100 |
 | 4 | Yogesh Powar | 07/07/2025 | 100 |
-| 5 | Suhas Phansalkar | 07/07/2025 | 100 |
+| 5 | Sachin Phansalkar | 07/07/2025 | 100 |
 | 6 | Neha Bijamwar | 07/07/2025 | 100 | 
 | 7 | Adhik Kalaskar | 07/07/2025 | 100 |
 | 8 | Yogyyata Patil | 07/07/2025 | 100 | 
