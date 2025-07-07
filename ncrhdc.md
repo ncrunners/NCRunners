@@ -33,6 +33,6 @@ Arranged by completed dates.
 | 5 | Suhas Phansalkar | 07/07/2025 | 100 |
 | 6 | Neha Bijamwar | 07/07/2025 | 100 | 
 | 7 | Adhik Kalaskar | 07/07/2025 | 100 |
-| 8 | Yogyyata | 07/07/2025 | 100 | 
+| 8 | Yogyyata Patil | 07/07/2025 | 100 | 
 | 9 | Pradeep Pawale | 07/07/2025 | 100 |
 | 10 | Gajanan Dhage | 07/07/2025 | 100 |
