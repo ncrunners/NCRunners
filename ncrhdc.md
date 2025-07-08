@@ -37,5 +37,6 @@ Arranged by completed dates.
 | 9 | Pradeep Pawale | 07/07/2025 | 100 |
 | 10 | Gajanan Dhage | 07/07/2025 | 100 |
 | 11 | Sneha Bhagwat | 07/07/2025 | 100 |
-| 12 | Santosh Shelar | 08/07/2025 | 101 |
-| 13 | Prashant Salkade | 08/07/2025 | 101 |
+| 12 | Prashant Salkade | 08/07/2025 | 101 |
+| 13 | Mihir Kulkarni | 08/07/2025 | 101 |
+| 14 | Priti Salkade | 08/07/2025 | 101 |
