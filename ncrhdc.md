@@ -40,6 +40,8 @@ Arranged by completed dates.
 | 12 | Prashant Salkade | 08/07/2025 | 101 |
 | 13 | Mihir Kulkarni | 08/07/2025 | 100 |
 | 14 | Priti Salkade | 08/07/2025 | 101 |
+| 15 | Vaijinath L | 09/07/2025 | 100 |
+| 16 | Shirish Tikhe | 09/07/2025 | 100 |
 
 
 
