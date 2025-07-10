@@ -43,7 +43,7 @@ Arranged by completed dates.
 | 15 | Vaijinath L | 09/07/2025 | 100 |
 | 16 | Shirish Tikhe | 09/07/2025 | 100 |
 | 17 | Darsh Salkade | 10/07/2025 | 103 |
-| 18 | Komal Thakre | 10/07/2025 | 103 |
+| 18 | Komal Thakre | 10/07/2025 | 101 |
 
 
 
