@@ -46,8 +46,21 @@ Arranged by completed dates.
 | 18 | Komal Thakre | 10/07/2025 | 101 |
 | 19 | Bharati Jana Vasant | 11/07/2025 | 101 |
 
+## 100 in 120 
+
+Although this challenge format was announced on March 29, a few NCRunners had
+already been targeting a 100-Day Challenge within 120 days.
+
+The following individuals successfully completed the 100-in-120 Days Challenge.
+
+|Sr. No| Name | Completed On | In #Days |
+| --- | --- | --- | --- |
+| 1 | Suchitra Palve | 30/04/2025 | 120 |
+| 2 | Sangramsinh Patil | 30/04/2025 | 120 |
 
 
+Note: If we follow NCRunners weekly plan, which includes one day rest, the 100-Day
+challenge can be completed in 117 days. 
 
 
 
