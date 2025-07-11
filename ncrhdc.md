@@ -26,7 +26,7 @@ Arranged by completed dates.
 
 |Sr. No| Name | Completed On | In #Days |
 | --- | --- | --- | --- |
-| 1 | Suchitra Palve | 30/04/2025 | 100 |
+| 1 | Suchitra Palve | 10/04/2025 | 100 |
 | 2 | Dilip Thorat | 11/04/2025 | 101 |
 | 3 | Mahesh Todkar |  06/06/2025 | 100 |
 | 4 | Sharad Dhawan | 01/07/2025 | 100 |
