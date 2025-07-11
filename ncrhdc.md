@@ -1,6 +1,6 @@
 # NCRunners 100-Day Challenge
 
-![](/assets/images/ncrhdc/ncrhdc_badge.png)
+<a  href="/assets/images/ncrhdc/ncrhdc_badge.png"><img src="/assets/images/ncrhdc/ncrhdc_badge.png" height="250px"></a>
 
 * ✅ Complete 100-day of activity in **110 days**
 * ✅ Choose any one per day:
