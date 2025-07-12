@@ -46,6 +46,7 @@ Arranged by completed dates.
 | 18 | Darsh Salkade | 10/07/2025 | 103 |
 | 19 | Komal Thakre | 10/07/2025 | 101 |
 | 20 | Bharati Jana Vasant | 11/07/2025 | 101 |
+| 21 | Uma Jagtap - Shinde | 12/07/2025 | 105 |
 
 ## 100 in 120 
 
