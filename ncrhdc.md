@@ -48,6 +48,8 @@ Arranged by completed dates.
 | 20 | Bharati Jana Vasant | 11/07/2025 | 101 |
 | 21 | Uma Jagtap - Shinde | 12/07/2025 | 105 |
 | 22 | Sanotsh Shelar | 14/07/2025 | 107 |
+| 23 | Shraddha Mahajan - Nakate | 14/07/2025 | 107 |
+
 
 ## 100 in 120 
 
