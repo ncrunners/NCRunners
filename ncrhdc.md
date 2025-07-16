@@ -51,6 +51,7 @@ Arranged by completed dates.
 | 23 | Shraddha Mahajan - Nakate | 14/07/2025 | 107 |
 | 24 | Meenakshi Ronghe | 14/07/2025 | 107 |
 | 25 | Sheela Nagarkar | 16/07/2025 | 108 |
+| 26 | Omkar Bhagavat | 16/07/2025 | 109 |
 
 
 ## 100 in 120 
