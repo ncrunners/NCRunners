@@ -46,14 +46,14 @@ Arranged by completed dates.
 | 18 | Darsh Salkade | 10/07/2025 | 103 |
 | 19 | Komal Thakre | 10/07/2025 | 101 |
 | 20 | Bharati Jana Vasant | 11/07/2025 | 101 |
-| 21 | Uma Jagtap - Shinde | 12/07/2025 | 105 |
-| 22 | Sanotsh Shelar | 14/07/2025 | 107 |
-| 23 | Shraddha Mahajan - Nakate | 14/07/2025 | 107 |
-| 24 | Meenakshi Ronghe | 14/07/2025 | 107 |
-| 25 | Sheela Nagarkar | 16/07/2025 | 108 |
-| 26 | Omkar Bhagavat | 16/07/2025 | 109 |
-| 27 | Sandeep Bhalekar | 18/07/2025 | 107 |
-
+| 21 | Preeti Lajurkar | 11/07/2025 | 105
+| 22 | Uma Jagtap - Shinde | 12/07/2025 | 105 |
+| 23 | Sanotsh Shelar | 14/07/2025 | 107 |
+| 24 | Shraddha Mahajan - Nakate | 14/07/2025 | 107 |
+| 25 | Meenakshi Ronghe | 14/07/2025 | 107 |
+| 26 | Sheela Nagarkar | 16/07/2025 | 108 |
+| 27 | Omkar Bhagavat | 16/07/2025 | 109 |
+| 28 | Sandeep Bhalekar | 18/07/2025 | 107 |
 
 ## 100 in 120 
 
