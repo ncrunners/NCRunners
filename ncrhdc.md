@@ -27,32 +27,32 @@ Arranged by completed dates.
 |Sr. No| Name | Completed On | In #Days |
 | --- | --- | --- | --- |
 | 1 | Suchitra Palve | 10/04/2025 | 100 |
-| 2 | Dilip Thorat | 11/04/2025 | 101 |
+| 2 | *Dilip Thorat* | 11/04/2025 | 101 |
 | 3 | Mahesh Todkar |  06/06/2025 | 100 |
-| 4 | Sharad Dhawan | 01/07/2025 | 100 |
-| 5 | Yogesh Powar | 07/07/2025 | 100 |
-| 6 | Sachin Phansalkar | 07/07/2025 | 100 |
-| 7 | Neha Bijamwar | 07/07/2025 | 100 | 
+| 4 | *Sharad Dhawan* | 01/07/2025 | 100 |
+| 5 | *Yogesh Powar* | 07/07/2025 | 100 |
+| 6 | *Sachin Phansalkar* | 07/07/2025 | 100 |
+| 7 | *Neha Bijamwar* | 07/07/2025 | 100 | 
 | 8 | Adhik Kalaskar | 07/07/2025 | 100 |
 | 9 | Yogyyata Patil | 07/07/2025 | 100 | 
 | 10 | Pradeep Pawale | 07/07/2025 | 100 |
 | 11 | Gajanan Dhage | 07/07/2025 | 100 |
-| 12 | Sneha Bhagwat | 07/07/2025 | 100 |
-| 13 | Prashant Salkade | 08/07/2025 | 101 |
-| 14 | Mihir Kulkarni | 08/07/2025 | 100 |
-| 15 | Priti Salkade | 08/07/2025 | 101 |
+| 12 | *Sneha Bhagwat* | 07/07/2025 | 100 |
+| 13 | *Prashant Salkade* | 08/07/2025 | 101 |
+| 14 | *Mihir Kulkarni* | 08/07/2025 | 100 |
+| 15 | *Priti Salkade* | 08/07/2025 | 101 |
 | 16 | Vaijinath L | 09/07/2025 | 100 |
-| 17 | Shirish Tikhe | 09/07/2025 | 100 |
-| 18 | Darsh Salkade | 10/07/2025 | 103 |
+| 17 | *Shirish Tikhe* | 09/07/2025 | 100 |
+| 18 | *Darsh Salkade* | 10/07/2025 | 103 |
 | 19 | Komal Thakre | 10/07/2025 | 101 |
 | 20 | Bharati Jana Vasant | 11/07/2025 | 101 |
 | 21 | Preeti Lajurkar | 11/07/2025 | 105
 | 22 | Uma Jagtap - Shinde | 12/07/2025 | 105 |
-| 23 | Sanotsh Shelar | 14/07/2025 | 107 |
+| 23 | *Sanotsh Shelar* | 14/07/2025 | 107 |
 | 24 | Shraddha Mahajan - Nakate | 14/07/2025 | 107 |
 | 25 | Meenakshi Ronghe | 14/07/2025 | 107 |
 | 26 | Sheela Nagarkar | 16/07/2025 | 108 |
-| 27 | Omkar Bhagavat | 16/07/2025 | 109 |
+| 27 | *Omkar Bhagavat* | 16/07/2025 | 109 |
 | 28 | Sandeep Bhalekar | 18/07/2025 | 107 |
 
 ## 100 in 120 
@@ -64,7 +64,7 @@ The following individuals successfully completed the 100-in-120 Days Challenge.
 
 |Sr. No| Name | Completed On | In #Days |
 | --- | --- | --- | --- |
-| 1 | Sangramsinh Patil | 30/04/2025 | 120 |
+| 1 | *Sangramsinh Patil* | 30/04/2025 | 120 |
 
 
 Note: If we follow NCRunners weekly plan, which includes one day rest, the 100-Day
