@@ -54,6 +54,7 @@ Arranged by completed dates.
 | 26 | Sheela Nagarkar | 16/07/2025 | 108 |
 | 27 | *Omkar Bhagavat* | 16/07/2025 | 109 |
 | 28 | Sandeep Bhalekar | 18/07/2025 | 107 |
+| 29 | Soundarya Madas | 20/07/2025 | 105 | 
 
 ## 100 in 120 
 
