@@ -54,7 +54,7 @@ Arranged by completed dates.
 | 26 | Sheela Nagarkar | 16/07/2025 | 108 |
 | 27 | *Omkar Bhagavat* | 16/07/2025 | 109 |
 | 28 | Sandeep Bhalekar | 18/07/2025 | 107 |
-| 29 | Soundarya Madas | 20/07/2025 | 105 | 
+| 29 | Soundarya Madas | 20/07/2025 | 110 | 
 
 ## 100 in 120 
 
@@ -66,6 +66,7 @@ The following individuals successfully completed the 100-in-120 Days Challenge.
 |Sr. No| Name | Completed On | In #Days |
 | --- | --- | --- | --- |
 | 1 | *Sangramsinh Patil* | 30/04/2025 | 120 |
+
 
 
 Note: If we follow NCRunners weekly plan, which includes one day rest, the 100-Day
