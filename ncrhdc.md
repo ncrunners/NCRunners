@@ -55,7 +55,7 @@ Arranged by completed dates.
 | 27 | *Omkar Bhagavat* | 16/07/2025 | 109 |
 | 28 | Sandeep Bhalekar | 18/07/2025 | 107 |
 | 29 | Soundarya Madas | 20/07/2025 | 110 |
-| 30 | Bija Jana | 21/07/2025 | 105 | 110 |
+| 30 | Bija Jana | 21/07/2025 | 110 |
 
 ## 100 in 120 
 
