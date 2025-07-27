@@ -59,6 +59,7 @@ Arranged by completed dates.
 | 29 | Soundarya Madas | 20/07/2025 | 110 |
 | 30 | *Bija Jana* | 21/07/2025 | 110 |
 | 31 | Anupama Patil | 22/07/2025 | 110 |
+| 32 | Mayur Biradar | 27/07/2025 | 108 |
 
 ## 100 in 120 
 
