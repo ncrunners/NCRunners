@@ -64,7 +64,7 @@ Arranged by completed dates.
 ## 100 in 120 
 
 It's a variation of the original challenge and revolves around following the NCRunners weekly plan.
-If one follows the NCRunners weekly plan—which includes one rest day per week - 
+If one follows the NCRunners weekly plan; which includes one rest day per week - 
 the 100-Day Challenge can be completed in 117 days.
 
 The following individuals successfully completed the 100-in-120 Days Challenge:
