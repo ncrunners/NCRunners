@@ -60,6 +60,7 @@ Arranged by completed dates.
 | 30 | *Bija Jana* | 21/07/2025 | 110 |
 | 31 | Anupama Patil | 22/07/2025 | 110 |
 | 32 | Mayur Biradar | 27/07/2025 | 108 |
+| 33 | Santosh Madas | 03/08/2025 | 110 | 
 
 ## 100 in 120 
 
@@ -72,7 +73,8 @@ The following individuals successfully completed the 100-in-120 Days Challenge:
 |Sr. No| Name | Completed On | In #Days |
 | --- | --- | --- | --- |
 | 1 | *Sangramsinh Patil* | 30/04/2025 | 120 |
-| 2 | Rajesh More | 29/07/2025 | 120 |
+| 2 | Harshita Baljekar | 28/07/2025 | 120 |
+| 3 | Rajesh More | 29/07/2025 | 120 |
 
 
 
