@@ -75,6 +75,7 @@ The following individuals successfully completed the 100-in-120 Days Challenge:
 | 1 | *Sangramsinh Patil* | 30/04/2025 | 120 |
 | 2 | Harshita Baljekar | 28/07/2025 | 120 |
 | 3 | Rajesh More | 29/07/2025 | 120 |
+| 4 | Vaijayanti Godase | 04/08/2025 | 120 |
 
 
 
