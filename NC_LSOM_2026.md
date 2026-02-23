@@ -7,6 +7,10 @@ The theme for this year's NC LSoM is "Digital Detox".
 
 Distances of 3 km, 5 km, 10 km and 15 km are available.
 
+## Registration Link
+
+* [Register here](https://events.trikayafit.com/event-details/nanded-city-lsom-2026/34)
+
 This entire month of March we will be doing
 
 1. We grow our community by inviting new members to join us and become runners.
