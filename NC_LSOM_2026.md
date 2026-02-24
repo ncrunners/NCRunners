@@ -1,39 +1,48 @@
 # NC LSoM 2026
 
-5th edition of Nanded City (NC) LSoM, our community marathon event, held on Sunday,
-29th March 2026.
+The **5th edition** of Nanded City (NC) LSoM — our community marathon event — will be held on **Sunday, 29 March 2026**.
 
-The theme for this year's NC LSoM is "Digital Detox".
+This year’s theme: **“Digital Detox”**.
 
-Distances of 3 km, 5 km, 10 km and 15 km are available.
+**Distances:** 3 km · 5 km · 10 km · 15 km
 
-## Registration Link
+---
 
-* [Register here](https://events.trikayafit.com/event-details/nanded-city-lsom-2026/34)
+## Registration
 
-This entire month of March we will be doing
+- [Register here](https://events.trikayafit.com/event-details/nanded-city-lsom-2026/34)
 
-1. We grow our community by inviting new members to join us and become runners.
-2. Promoting Running and its benefits to the local community of runners.
+---
 
-## How to digital detox
+## This March
 
-1. Dont let devices control you
-    * Be in control of your time and attention.
-    * Dont fall prey to algorithm traps.
-2. Be in real word more than your virtual world.
-    * Make friends in real world rather than on social media.
-    * Sweat is real and physical activity is good for you.
+Throughout March we will:
 
+1. **Grow our community** — Invite new members to join us and become runners.
+2. **Promote running** — Share the benefits of running with the local community.
 
-```
-Scroll Less,
-     Run More.
+---
 
-Join NCrunners for a healthy lifestyle
-```
+## How to Digital Detox
+
+1. **Don’t let devices control you**
+   - Be in control of your time and attention.
+   - Don’t fall prey to algorithm traps.
+
+2. **Be in the real world more than your virtual world**
+   - Make friends in the real world rather than on social media.
+   - Sweat is real—physical activity is good for you.
+
+---
+
+> **Scroll less, run more.**  
+> Join NCrunners for a healthy lifestyle.
+
+---
 
 ## The Flag Bearers
 
-1. Shri Swapnil Nandgaonkar – Race Director (RD)
-2. Smt. Pooja Gogave – Assistant Race Director (ARD)
+| Role | Name |
+|------|------|
+| Race Director (RD) | Shri Swapnil Nandgaonkar |
+| Assistant Race Director (ARD) | Smt. Pooja Gogave |
