@@ -10,6 +10,13 @@ Every stride we take strengthens not just our body but our will;
 NCRunners is a dynamic community of over 250+ runners in and around Nanded City,
 Pune, **established in 2016**.
 
+---
+* **[Click here to Register for Nanded City LSoM](https://www.ncrunners.in/NC_LSOM_2026)**
+---
+
+  
+
+
 ![](/assets/images/ncrunners_lsom.jpeg)
 
 Dedicated to health and well-being, we offer free weekly sessions in strength
