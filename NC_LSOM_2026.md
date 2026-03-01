@@ -1,5 +1,7 @@
 # NC LSoM 2026
 
+* [](/assets/images/lsom2026/ncLsom2026.jpeg)
+
 The **5th edition** of Nanded City (NC) LSoM — our community marathon event — will be held on **Sunday, 29 March 2026**.
 
 This year’s theme: **“Digital Detox”**.
