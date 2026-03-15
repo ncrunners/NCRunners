@@ -3,7 +3,7 @@
 <table>
 <tr>
 <td>
-<img src="/assets/images/ncrunners_logo.png" height="200">
+<img src="/assets/images/ncrunners_logo.png" height="100">
 </td>
 <td>
 NCRunners is a dynamic community of over 250+ runners in and around Nanded City,
