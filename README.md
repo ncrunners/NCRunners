@@ -1,20 +1,20 @@
 | Home | [Weekly Sessions](#weekly-training-sessions) | [Contact](#contact) | [Achievements](#achievements-and-events) | [Trainings](#annual-preparation-for-key-events) |
 
-```
-Every stride we take strengthens not just our body but our will;  
-   every mile we conquer builds the endurance of a nation.
-      A country that runs together, rises together.
-                                                      --- Jai Hind
-```
-
+<table>
+<tr>
+<td>
+<img src="/assets/images/ncrunners_logo.png" height="200">
+</td>
+<td>
 NCRunners is a dynamic community of over 250+ runners in and around Nanded City,
-Pune, **established in 2016**.
+Pune, <b>established in 2016</b>.
+</td>
+</tr>
+</table>
 
 ---
 * **[Click here to Register for Nanded City LSoM](https://www.ncrunners.in/NC_LSOM_2026)**
 ---
-
-  
 
 
 ![](/assets/images/ncrunners_lsom.jpeg)
