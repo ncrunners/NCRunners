@@ -7,7 +7,7 @@
 </td>
 <td>
 NCRunners is a dynamic community of over 250+ runners in and around Nanded City,
-Pune, <b>established in 2017</b>.
+Pune, <a href="History.md"><b>established in 2017</b></a>.
 </td>
 </tr>
 </table>
