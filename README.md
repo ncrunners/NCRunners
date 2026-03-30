@@ -12,10 +12,6 @@ Pune, <a href="History"><b>established in 2017</b></a>.
 </tr>
 </table>
 
----
-* **[Click here to Register for Nanded City LSoM](https://www.ncrunners.in/NC_LSOM_2026)**
----
-
 
 ![](/assets/images/ncrunners_lsom.jpeg)
 
@@ -84,7 +80,7 @@ Sessions are held at morning 0530 to 0700.
 
 | Year | Month | Event | Type | Participants | Description |
 | --- | --- | --- | --- | --- | --- |
-| 2026 | March | NC LSoM | Community Marathon |  | [NC-LSoM: Digital Detox](https://www.ncrunners.in/NC_LSOM_2026) |
+| 2026 | March | NC LSoM | Community Marathon | 2000~ | [NC-LSoM: Digital Detox](https://www.ncrunners.in/NC_LSOM_2026) |
 | 2025 | March | NC LSoM | Community Marathon | 2000+ | [NC-LSoM: Shahid Diwas Theme](https://www.ncrunners.in/NC_LSOM_2025) |
 | 2024 | Nov | NC Triathlon | Community Triathlon | 50+ | Community organized NC Triathlon |
 | 2024 | March | NC LSoM | Community Marathon | 1800+ | [NC-LSoM: Runner's Safety Theme](https://yogeshpowar.github.io/blog/2024/04/01/NC_LSoM.html) |
