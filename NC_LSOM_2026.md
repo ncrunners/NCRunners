@@ -2,26 +2,35 @@
 
 ![](/assets/images/lsom2026/ncLsom2026.jpeg)
 
-The **5th edition** of Nanded City (NC) LSoM — our community marathon event — will be held on **Sunday, 29 March 2026**.
+# Thank you for being a part of NC LSoM 2026
 
-This year’s theme: **“Digital Detox”**.
+Dear Runner,
 
-**Distances:** 3 km · 5 km · 10 km · 15 km
+Thank you for being a part of the 5th edition of **Nanded City (NC) LSoM**, our
+community marathon event, held on Sunday, 29th March 2026.
 
----
+Here are some key highlights from the event:
 
-## Registration
+* Participation of **2000+ individuals**, from toddlers to senior citizens.
+* A strong emphasis on **sustainability**, with a plastic-free event using steel
+  utensils.
+* Specialized support from **physiotherapists and doctors** to assist runners.
+* Hearing **positive feedback** from our runners makes us incredibly proud to have
+  organized yet another LSoM that participants truly enjoyed.
 
-- [Register here](https://events.trikayafit.com/event-details/nanded-city-lsom-2026/34)
+We sincerely thank you for allowing us to create an experience that will be
+cherished for a long time. This event was entirely community-driven, with **160+
+volunteers** from NCRunners and support from our sponsors, ensuring we delivered
+a high-quality event at just ₹200 per runner.
 
----
+_Running a strong event on a modest budget takes months of volunteer work.
+Community's intent and volunteer's energy are what make it possible._
 
-## This March
+We look forward to seeing you again next year!
 
-Throughout March we will:
+NC LSoM Team
+https://ncrunners.in
 
-1. **Grow our community** — Invite new members to join us and become runners.
-2. **Promote running** — Share the benefits of running with the local community.
 
 ---
 
