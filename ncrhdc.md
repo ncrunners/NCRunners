@@ -22,4 +22,5 @@ The group link is https://chat.whatsapp.com/FNmS7vddZ0F6NR5CX36zE8
 
 ## Finishers
 
+* [Year 2026](/ncrhdc_2026.md)
 * [Year 2025](/ncrhdc_2025.md)
