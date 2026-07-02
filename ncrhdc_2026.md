@@ -7,12 +7,12 @@ Arranged by completed dates.
 
 |Sr. No| Name | Completed On | In #Days |
 | --- | --- | --- | --- |
-| 1 | Yogesh Powar | 26/06/2026 | 100 |
-| 2 | Rahul Gore | 26/06/2026 | 100 |
-| 3 | Mayank Purandare | 26/06/2026 | 100 |
-| 4 | Anupama Patil | 26/06/2026 | 100 |
-| 5 | Darsh Salkade | 26/06/2026 | 100 |
-| 6 | Sachin Phansalkar | 26/06/2026 | 100 |
+| 1 | Yogesh Powar | 26-06-2026 | 100 |
+| 2 | Rahul Gore | 26-06-2026 | 100 |
+| 3 | Mayank Purandare | 26-06-2026 | 100 |
+| 4 | Anupama Patil | 26-06-2026 | 100 |
+| 5 | Darsh Salkade | 26-06-2026 | 100 |
+| 6 | Sachin Phansalkar | 26-06-2026 | 100 |
 | 7 | Adhik Kalaskar| 27-06-2026 | 100 |
 | 8 | Sachin Kulkarni | 27-06-2026 | 101 |
 | 9 | Neha Bijamwar | 27-06-2026 | 101 |
@@ -24,3 +24,11 @@ Arranged by completed dates.
 | 15 | Nilesh Hagwane-Patil | 29-06-2026 | 103 |
 | 16 | Meenakshi Ronghe | 30-06-2026 | 100 |
 | 17 | Vaishali Pawar | 30-06-2026 | 103 |
+| 18 | Ganesh Bhosale | 01-07-2026 | 105 |
+| 19 | Anup Raut| 01-07-2026 | 105 |
+| 20 | Nitin Ghadage| 01-07-2026 | 105 |
+| 21 | Prashant Salkade| 01-07-2026 | 105 |
+| 22 | Pradeep Pawale| 01-07-2026 | 105 |
+| 23 | Gajanan Dhage| 01-07-2026 | 105 |
+| 24 | Sandeep Bhalekar| 01-07-2026 | 105 |
+| 25 | Vaijinath Langade| 02-07-2026 | 106 |
