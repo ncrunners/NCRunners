@@ -122,7 +122,16 @@ Sessions are held every morning, **05:30 to 07:00**.
 
 ## Annual Preparation for Key Events {#trainings}
 
-[![Tata Mumbai Marathon 2025](/assets/images/ncrunners_tmm25.jpeg)](/assets/images/ncrunners_tmm25.jpeg)
+<div class="carousel">
+  <figure>
+    <a href="/assets/images/ncrunners_tmm25.jpeg"><img src="/assets/images/ncrunners_tmm25.jpeg" alt="Tata Mumbai Marathon 2025" loading="lazy"></a>
+    <figcaption>TMM 2025</figcaption>
+  </figure>
+  <figure>
+    <a href="/assets/images/ncrunners_shhm26.jpeg"><img src="/assets/images/ncrunners_shhm26.jpeg" alt="Satara Hill Half Marathon 2026" loading="lazy"></a>
+    <figcaption>SHHM 2026</figcaption>
+  </figure>
+</div>
 
 Every year, we collectively train for renowned running events, such as:
 
