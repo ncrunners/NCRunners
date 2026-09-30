@@ -113,10 +113,14 @@ Sessions are held every morning, **05:30 to 07:00**.
 
 ### Swimming
 
-[![Open water swimathon](/assets/images/ncrunners_swim.jpeg)](/assets/images/ncrunners_swim.jpeg)
+<div class="carousel">
+  <a href="/assets/images/appexSwimathon2026.jpeg"><img src="/assets/images/appexSwimathon2026.jpeg" alt="Apex Swimathon 2026" loading="lazy"></a>
+  <a href="/assets/images/ncrunners_swim.jpeg"><img src="/assets/images/ncrunners_swim.jpeg" alt="Open water swimathon" loading="lazy"></a>
+</div>
 
 | Year | Month | Event | Type | Participants | Description |
 | --- | --- | --- | --- | --- | --- |
+| 2026 | September | Apex Swimathon | Swimathon | 20 | [Apex Ultimate Swim Challenge](/appexSwimathon2026/) |
 | 2024 | December | Chivla Beach | Swimathon | 10 | Chivla Beach open water swimathon |
 | 2023 | November | Vasai | Swimathon | 5 | Mumbai open water swim event |
 
